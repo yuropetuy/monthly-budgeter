@@ -1,0 +1,1 @@
+import{j as s}from"./jsx-runtime-56DGgGmo.js";import{M as e,L as r,O as t,S as a}from"./components-1BVeooBt.js";function n(){return s.jsxs("html",{children:[s.jsxs("head",{children:[s.jsx("link",{rel:"icon",href:"data:image/x-icon;base64,AA"}),s.jsx(e,{}),s.jsx(r,{})]}),s.jsxs("body",{children:[s.jsx(t,{}),s.jsx(a,{})]})]})}export{n as default};
